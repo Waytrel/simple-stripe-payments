@@ -7,6 +7,7 @@ PAID version:
 - Multiple items of product on payment page.
 <img width="929" alt="Снимок экрана 2023-06-29 в 18 56 45" src="https://github.com/Waytrel/simple-stripe-payments/assets/94081466/2f2a7feb-8c67-4b95-af85-616d417b06a8">
 
+For by full wersion pleace write me to Telegram [@VitWaytrel](https://t.me/VitWaytrel) or email vitaliijsh@gmail.com
 
 GNU GENERAL PUBLIC LICENSE
 
