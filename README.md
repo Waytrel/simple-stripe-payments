@@ -1,6 +1,7 @@
 # simple-stripe-payments
 
 This if free version of simple stripe payments plugin.
+
 PAID version: 
 - You have changes paid or fail order status after payment by https://example.com/?wc-api=wc_gateway_stripe.
 - Multiple items of product on payment page.
