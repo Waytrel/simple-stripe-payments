@@ -2,7 +2,7 @@
 
 This if free version of simple stripe payments plugin.
 
-PAID version: 
+PAID version 50$: 
 - You have changes paid or fail order status after payment by https://example.com/?wc-api=wc_gateway_stripe.
 - Multiple items of product on payment page.
 <img width="929" alt="Снимок экрана 2023-06-29 в 18 56 45" src="https://github.com/Waytrel/simple-stripe-payments/assets/94081466/2f2a7feb-8c67-4b95-af85-616d417b06a8">
